@@ -14,6 +14,22 @@ Step 2 : Data Cleaning
 - 2.3 Outlier Treatment
 - -- For Detection Use Boxplot, Histograms, Scatter Plot, Z-Score, Inter Quartile Range
 - -- Treatment - Remove them or use the model which are not affected by outlier like KNN, SVM, DT, Naive Bayes
-
+- -- 3-Sigma Technique (Standard Deviation )
+- -- Boxplots
+- -- Inter Quartile Range
 - 2.4 Handle Invalid Value
-  
+- Correct Incorrect Data type
+- Encode Unicode Properly (eg: date format is different)
+Step 3 : Categorical Analysis
+Step 4 : Numerical Analysis
+Step 5 : Derived Metrics
+- 5.1 Feature Binning
+- -- Unsupervised Binning (equal width, equal Frequency)
+- -- Supervised Binning
+- 5.2 Feature Encoding ( Categorical Data to Numerical data)
+- -- Label Encoding
+- -- One-Hot Encoding
+- -- Target Encoding
+- -- Hash Encoders
+- 5.3 From Domain Knowledge
+- 5.4 Calculated from Data
