@@ -21,7 +21,17 @@
 - Correct Incorrect Data type
 - Encode Unicode Properly (eg: date format is different)
 # Step 3 : Categorical Analysis
+- Univariate analysis
+- --countplot
+- --pie chart
+- Multivariate Analysis
 # Step 4 : Numerical Analysis
+- Univariate analysis
+- -- Histogram
+- -- Displot
+- -- BoxPlot
+- -- min, max, mean, skew
+- Multivariate Analysis
 # Step 5 : Derived Metrics
 - 5.1 Feature Binning
 - -- Unsupervised Binning (equal width, equal Frequency)
